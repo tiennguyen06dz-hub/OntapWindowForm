@@ -8,4 +8,4 @@
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
-![Kiểm tra lỗi](./screenshots/Validation.png)
+![Kiểm tra lỗi](./screenshots/validation.png)
